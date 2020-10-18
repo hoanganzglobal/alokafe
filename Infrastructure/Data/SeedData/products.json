@@ -1,0 +1,18 @@
+[
+    {
+      "Name": "Black Coffee",
+      "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+      "Price": 20000,
+      "PictureUrl": "images/products/sb-ang1.png",
+      "CategoryId": 1,
+      "Status": 1
+    },
+    {
+      "Name": "Milk Coffee",
+      "Description": "Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.",
+      "Price": 25000,
+      "PictureUrl": "images/products/sb-ang2.png",
+      "CategoryId": 1,
+      "Status": 1
+    }
+  ]
